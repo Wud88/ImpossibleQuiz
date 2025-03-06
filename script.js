@@ -20,7 +20,7 @@ function gotoEnd() {
 
 function gotoStart() {
 
-    window.location.href = "remix.html";
+    window.location.href = "index.html";
 }
 
 
